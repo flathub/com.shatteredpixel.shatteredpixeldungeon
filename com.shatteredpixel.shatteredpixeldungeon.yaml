@@ -4,7 +4,7 @@ runtime-version: '18.08'
 sdk: org.freedesktop.Sdk
 command: com.shatteredpixel.shatteredpixeldungeon.sh
 sdk-extensions:
-- org.freedesktop.Sdk.Extension.openjdk10
+- org.freedesktop.Sdk.Extension.openjdk11
 finish-args:
 - --socket=wayland
 - --socket=x11
@@ -17,7 +17,7 @@ modules:
 - name: openjdk
   buildsystem: simple
   build-commands:
-    - /usr/lib/sdk/openjdk10/install.sh
+    - /usr/lib/sdk/openjdk11/install.sh
 
 - name: xrandr
   sources:
@@ -36,8 +36,8 @@ modules:
   - install -Dm644 com.shatteredpixel.shatteredpixeldungeon.jar /app/share/com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.jar
   sources:
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon-gdx/releases/download/v0.6.5c/ShatteredPD.Desktop.v0.6.5c.jar
-    sha256: 5328a610b13a10ddf981da3fedbde51576b5fd10cf263f73dd79aac126273c85
+    url: https://github.com/00-Evan/shattered-pixel-dungeon-gdx/releases/download/v0.7.0a/ShatteredPD.Desktop.v0.7.0a.jar
+    sha256: 93bd1bf79202b6cd160e6e94b9f048b05a57d9368d73c06277ceb8f795e80438
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.jar
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.desktop
