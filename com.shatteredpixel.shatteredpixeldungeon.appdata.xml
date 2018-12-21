@@ -25,7 +25,8 @@
 		<p>Shattered Pixel Dungeon is available in multiple languages thanks to support from the community. The translation project is hosted here: https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon</p>
 		<p>Shattered Pixel Dungeon is open source software under the GPLv3 Licence. You can find the current source code here: https://github.com/00-Evan/shattered-pixel-dungeon</p>
 	</description>
-	<url type="homepage">https://github.com/00-Evan/shattered-pixel-dungeon-gdx</url>
+	<developer_name>Evan Debenham</developer_name>
+	<url type="homepage">http://www.shatteredpixel.com/</url>
 	<url type="bugtracker">https://github.com/00-Evan/shattered-pixel-dungeon-gdx/issues</url>
 	<screenshots>
 		<screenshot type="default">
