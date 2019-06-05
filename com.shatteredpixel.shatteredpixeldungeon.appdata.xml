@@ -3,7 +3,7 @@
 	<id>com.shatteredpixel.shatteredpixeldungeon</id>
 	<name>Shattered Pixel Dungeon</name>
 	<summary>Traditional roguelike game with pixel-art graphics and simple interface</summary>
-	<metadata_license>GPL-3.0-only</metadata_license>
+	<metadata_license>CC-BY-SA-4.0</metadata_license>
 	<project_license>GPL-3.0-only</project_license>
 	<!-- Description taken from https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon&hl=en_US -->
 	<description>
@@ -22,12 +22,11 @@
 		</ul>
 		<p>Shattered Pixel Dungeon is a 100% free game. There are no advertisements, microtransactions, or paywalls. An optional donation to support the game unlocks a couple of fun extras, but these are entirely cosmetic and do not affect gameplay.</p>
 		<p>Find an issue with the game? Have a suggestion? Then contact me! This game is a solo project, so the feedback of players is invaluable in improving the game. You can contact me at Evan@ShatteredPixel.com (My ability to respond to emails in languages other than English is limited.)</p>
-		<p>Shattered Pixel Dungeon is available in multiple languages thanks to support from the community. The translation project is hosted here: https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon</p>
-		<p>Shattered Pixel Dungeon is open source software under the GPLv3 Licence. You can find the current source code here: https://github.com/00-Evan/shattered-pixel-dungeon</p>
 	</description>
 	<developer_name>Evan Debenham</developer_name>
 	<url type="homepage">https://www.shatteredpixel.com/</url>
 	<url type="bugtracker">https://github.com/00-Evan/shattered-pixel-dungeon-gdx/issues</url>
+	<url type="translate">https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon</url>
 	<screenshots>
 		<screenshot type="default">
 			<image>https://raw.githubusercontent.com/flathub/com.shatteredpixel.shatteredpixeldungeon/master/screenshot1.png</image>
