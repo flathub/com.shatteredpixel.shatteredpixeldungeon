@@ -36,8 +36,8 @@ modules:
   - install -Dm644 com.shatteredpixel.shatteredpixeldungeon.jar /app/share/com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.jar
   sources:
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon-gdx/releases/download/v0.7.3b/ShatteredPD.Desktop.v0.7.3b.jar
-    sha256: 7d370038db90f5b740f2f968987e8d5cbf47a3eba570430cde54372931ac64f1
+    url: https://github.com/00-Evan/shattered-pixel-dungeon-gdx/releases/download/v0.7.4/ShatteredPD.Desktop.v0.7.4.jar
+    sha256: 9739333886624aa0a3d0fa47b8c9dd8ca5fbec47bfcb839c2564ee9a9853d788
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.jar
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.desktop
