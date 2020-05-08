@@ -44,6 +44,6 @@ modules:
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.appdata.xml
   - type: file
-    url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon-gdx/master/android/res/drawable-xxxhdpi/ic_launcher.png
-    sha256: 3558bf1fa91c37e5cb48e91396c99b4fc3b37ffdb22381e6de9711548ef91890
+    url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icon_128.png
+    sha256: 7d6f39c72d6a46f14ea751b364f8393b152d569853e8231a52346046b8421240
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.png
