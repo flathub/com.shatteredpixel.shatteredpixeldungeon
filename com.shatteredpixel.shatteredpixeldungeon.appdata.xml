@@ -26,7 +26,7 @@
 		<p>Shattered Pixel Dungeon is open source software under the GPLv3 Licence. You can find the current source code here: https://github.com/00-Evan/shattered-pixel-dungeon</p>
 	</description>
 	<developer_name>Evan Debenham</developer_name>
-	<url type="homepage">https://www.shatteredpixel.com/</url>
+	<url type="homepage">https://shatteredpixel.com/</url>
 	<url type="bugtracker">https://github.com/00-Evan/shattered-pixel-dungeon-gdx/issues</url>
 	<screenshots>
 		<screenshot type="default">
@@ -40,7 +40,7 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="0.7.1b" date="2018-12-31" />
+		<release version="0.8.0b" date="2019-12-01" />
 	</releases>
 	<content_rating type="oars-1.1">
 		<content_attribute id="violence-cartoon">moderate</content_attribute>
