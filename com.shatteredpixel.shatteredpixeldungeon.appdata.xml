@@ -2,7 +2,7 @@
 <component type="desktop">
 	<id>com.shatteredpixel.shatteredpixeldungeon</id>
 	<name>Shattered Pixel Dungeon</name>
-	<summary>Traditional roguelike game with pixel-art graphics and simple interface</summary>
+	<summary>Roguelike RPG, with pixel art graphics and lots of variety and replayability</summary>
 	<metadata_license>GPL-3.0-only</metadata_license>
 	<project_license>GPL-3.0-only</project_license>
 	<!-- Description taken from https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon&hl=en_US -->
