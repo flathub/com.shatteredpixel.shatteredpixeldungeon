@@ -1,6 +1,6 @@
 app-id: com.shatteredpixel.shatteredpixeldungeon
 runtime: org.freedesktop.Platform
-runtime-version: '18.08'
+runtime-version: '19.08'
 sdk: org.freedesktop.Sdk
 command: com.shatteredpixel.shatteredpixeldungeon.sh
 sdk-extensions:
@@ -36,8 +36,8 @@ modules:
   - install -Dm644 com.shatteredpixel.shatteredpixeldungeon.jar /app/share/com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.jar
   sources:
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon-gdx/releases/download/v0.7.1b/ShatteredPD.Desktop.v0.7.1b.jar
-    sha256: bfcee03a41bf94b066e39c865d2982ed17a282601a55a05449b82e27b6dd01e6
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v0.8.0b/ShatteredPD-v0.8.0b-Desktop.jar
+    sha256: 5a662a4ca33e2f2c42ea1841edae4efe7a6f264af45383bee9ebd2b5c140bed4
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.jar
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.desktop
@@ -47,4 +47,3 @@ modules:
     url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon-gdx/master/android/res/drawable-xxxhdpi/ic_launcher.png
     sha256: 3558bf1fa91c37e5cb48e91396c99b4fc3b37ffdb22381e6de9711548ef91890
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.png
-    
