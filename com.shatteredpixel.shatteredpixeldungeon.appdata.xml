@@ -3,9 +3,9 @@
 	<id>com.shatteredpixel.shatteredpixeldungeon</id>
 	<name>Shattered Pixel Dungeon</name>
 	<summary>Roguelike RPG, with pixel art graphics and lots of variety and replayability</summary>
-	<metadata_license>GPL-3.0-only</metadata_license>
+	<metadata_license>CC-BY-SA-3.0</metadata_license>
 	<project_license>GPL-3.0-only</project_license>
-	<!-- Description taken from https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon&hl=en_US -->
+	<!-- Description taken from https://shatteredpixel.com -->
 	<description>
 		<p>Shattered Pixel Dungeon is a Roguelike RPG, with pixel art graphics and lots of variety and replayability. Every game is unique, with four different playable characters, randomized levels and enemies, and over 150 items to collect and use. The game is simple to get into, but has lots of depth. Strategy is required if you want to win!</p>
 		<p>This game is based on the freely available source code of Pixel Dungeon. It began as a project to improve on the original game's quirks, but has since evolved into a separate game, with many unique features.</p>
