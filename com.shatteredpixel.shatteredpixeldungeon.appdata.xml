@@ -28,6 +28,8 @@
 	<developer_name>Evan Debenham</developer_name>
 	<url type="homepage">https://shatteredpixel.com/</url>
 	<url type="bugtracker">https://github.com/00-Evan/shattered-pixel-dungeon/issues</url>
+	<url type="translate">https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon/</url>
+	<url type="donation">https://www.patreon.com/ShatteredPixel</url>
 	<screenshots>
 		<screenshot type="default">
 			<image>https://raw.githubusercontent.com/flathub/com.shatteredpixel.shatteredpixeldungeon/master/screenshot1.png</image>
@@ -40,6 +42,11 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="0.9.1" date="2020-12-11">
+			<description>
+				<p>v0.9.1 introduces the second tier of the talent system and makes some major improvements to the first tier! There is also a major expansion to the level generation algorithm and a bunch of smaller additions and improvements.</p>
+			</description>
+		</release>
 		<release version="0.9.0" date="2020-10-05">
 			<description>
 				<p>v0.9.0 is the first in a series of updates that will introduce and build upon a new gameplay system! As your hero levels up you can now spend talent points to give them new or improved abilities!</p>
