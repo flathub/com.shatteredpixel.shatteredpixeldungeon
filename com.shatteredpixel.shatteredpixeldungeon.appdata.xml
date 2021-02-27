@@ -67,14 +67,11 @@
 				<p>v0.8.2 includes major interface improvements and additions, a new equipment slot for rings/artifacts, and a bunch of smaller improvements and balance tweaks!</p>
 			</description>
 		</release>
-	    <release version="0.8.1" date="2020-06-28">
-	       <description>
-              <p>
-                 This update totally overhauls enemies and bosses in the middle and late stages of the game!
-                 v0.8.1 includes some major audiovisual upgrades in the form of new sounds effects and a redesigned hero select featuring fully detailed splash art! There are also lots of design and balance tweaks to bosses, items, and general gameplay.
-              </p>
-           </description>
-        </release>
+		<release version="0.8.1" date="2020-06-28">
+	        	<description>
+              			<p> This update totally overhauls enemies and bosses in the middle and late stages of the game! v0.8.1 includes some major audiovisual upgrades in the form of new sounds effects and a redesigned hero select featuring fully detailed splash art! There are also lots of design and balance tweaks to bosses, items, and general gameplay.</p>
+           		</description>
+        	</release>
 		<release version="0.8.0b" date="2019-12-01" />
 	</releases>
 	<content_rating type="oars-1.1">
