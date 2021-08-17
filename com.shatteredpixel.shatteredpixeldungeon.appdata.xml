@@ -42,6 +42,12 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.0.0" date="2021-08-17">
+			<description>
+				<p>v1.0.0 is here! It contains a variety of content additions and refinements. There is new music, support for new platforms, new alchemy recipes, and a few other odds and ends.</p>
+				<p>I've also made a bunch of balance changes to hero abilities and various items.</p>
+			</description>
+		</release>
 		<release version="0.9.3" date="2021-06-07">
 			<description>
 				<p>v0.9.3 redesigns hero armor abilities and adds a fourth tier to the talent system! There are 13 abilities and 40 new talents in total.</p>
