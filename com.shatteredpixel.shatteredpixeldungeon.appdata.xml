@@ -44,7 +44,7 @@
 	<releases>
 		<release version="1.1.1" date="2022-01-04">
 			<description>
-				<p>v1.1 contains various improvements to the alchemy system and the items it produces, and a music track for each region of the game! There are a few new spells, and several buffs and reworks to exotic potions and scrolls in particular, and various other smaller changes.</p>
+				<p>v1.1.0 contains various improvements to the alchemy system and the items it produces, and a music track for each region of the game! There are a few new spells, and several buffs and reworks to exotic potions and scrolls in particular, and various other smaller changes.</p>
 			</description>
 		</release>
 		<release version="1.0.3" date="2021-09-01">
