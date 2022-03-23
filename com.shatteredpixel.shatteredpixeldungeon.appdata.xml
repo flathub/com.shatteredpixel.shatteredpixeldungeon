@@ -42,6 +42,11 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.2.0" date="2022-03-23">
+			<description>
+				<p>v1.2 is the first version of Shattered built for computers! It has a bunch of improvements for users on larger screens and who play with controllers or mouse and keyboard! There are also several content changes, including new special rooms, a rework to the Master Thieves' Armband, and various improvements to spell items.</p>
+			</description>
+		</release>
 		<release version="1.1.1" date="2022-01-04">
 			<description>
 				<p>v1.1.0 contains various improvements to the alchemy system and the items it produces, and a music track for each region of the game! There are a few new spells, and several buffs and reworks to exotic potions and scrolls in particular, and various other smaller changes.</p>
