@@ -10,7 +10,7 @@ finish-args:
 - --socket=wayland
 - --socket=x11
 - --share=ipc
-- --device=dri
+- --device=all
 - --env=PATH=/usr/bin:/app/bin:/app/jre/bin
 - --socket=pulseaudio
 - --share=network
@@ -44,30 +44,30 @@ modules:
 
   sources:
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v1.1.1/ShatteredPD-v1.1.1-Desktop.jar
-    sha256: 6181aff162919196b249b2ef5b0b79f1a4c3888c3516859de32da608b17230f1
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v1.2.0/ShatteredPD-v1.2.0-Desktop.jar
+    sha256: 83dac36659ee5c4d8eabb64122185bfba31b76703f76a9be3978cc57376eb6ed
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.jar
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.desktop
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.appdata.xml
   - type: file
-    url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/6c53c8aa2228a1483272d6b7b615e13ed2b43330/desktop/src/main/assets/icons/icon_16.png
-    sha256: ecb1a6c010e1db7e44cfaa864dba329c04a948e475b0dd31db761f2c33abcbfd
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_16.png
+    sha256: 346204f441329df848161554c62a13bff1a8a67861b0dc5456e19e865830d598
     dest-filename: icon_16.png
   - type: file
-    url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/6c53c8aa2228a1483272d6b7b615e13ed2b43330/desktop/src/main/assets/icons/icon_32.png
-    sha256: ab85873c0ea4142d0c950423eb4aa35a48203918ef5b0db782387b1bddc9c3a0
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_32.png
+    sha256: d64be318c9ca7cc40d6d270d5c28b067245e21b52304631c1480d4efb1fe5f52
     dest-filename: icon_32.png
   - type: file
-    url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/6c53c8aa2228a1483272d6b7b615e13ed2b43330/desktop/src/main/assets/icons/icon_64.png
-    sha256: 7198c1f5c95065615da9c687b5008923be9be3e9a0d92d4aa40cebef4a48b92e
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_64.png
+    sha256: e556d143ea9269b3a2ec2267170f12365ce81b0cd7a91cac6dd3c61a3e88ba62
     dest-filename: icon_64.png
   - type: file
-    url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/6c53c8aa2228a1483272d6b7b615e13ed2b43330/desktop/src/main/assets/icons/icon_128.png
-    sha256: 7d6f39c72d6a46f14ea751b364f8393b152d569853e8231a52346046b8421240
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_128.png
+    sha256: eeb3a5230003704752bc24beb91aa0a3a269f57bb61f4445ffc8751674d00879
     dest-filename: icon_128.png
   - type: file
-    url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/6c53c8aa2228a1483272d6b7b615e13ed2b43330/desktop/src/main/assets/icons/icon_256.png
-    sha256: 38d7ecee5a229c4154a6b4ead90cd7578f3459603dbef41c835c9a2916401e95
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_256.png
+    sha256: 00962b4d99401827b24bce91bc76672ee69380d075085f6d5148a085d7badcb5
     dest-filename: icon_256.png
