@@ -42,6 +42,11 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.2.0+1" date="2022-03-26">
+			<description>
+				<p>Fix: With v1.2.0 a new save path was introduced, which is moving content to a new location. This new path wasn't persisted.</p>
+			</description>
+		</release>
 		<release version="1.2.0" date="2022-03-23">
 			<description>
 				<p>v1.2 is the first version of Shattered built for computers! It has a bunch of improvements for users on larger screens and who play with controllers or mouse and keyboard! There are also several content changes, including new special rooms, a rework to the Master Thieves' Armband, and various improvements to spell items.</p>
