@@ -42,6 +42,11 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.3.0" date="2022-06-24">
+			<description>
+				<p>v1.3.0 Includes a bunch of new functionality, including custom seeds, daily runs, scoring improvements, a harder ascension route, UI improvements, new badges, and balance changes. Check the changes screen for full details!</p>
+			</description>
+		</release>
 		<release version="1.2.3" date="2022-04-14">
 			<description>
 				<p>v1.2 is the first version of Shattered built for computers! It has a bunch of improvements for users on larger screens and who play with controllers or mouse and keyboard! There are also several content changes, including new special rooms, a rework to the Master Thieves' Armband, and various improvements to spell items.</p>
