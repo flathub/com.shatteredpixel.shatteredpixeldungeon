@@ -31,7 +31,6 @@ modules:
 - name: shatteredpixeldungeon
   buildsystem: simple
   build-commands:
-  - echo "java -jar /app/share/com.shatteredpixel.shatteredpixeldungeon/com.shatteredpixel.shatteredpixeldungeon.jar" > com.shatteredpixel.shatteredpixeldungeon.sh
   - install -Dm755 com.shatteredpixel.shatteredpixeldungeon.sh /app/bin/com.shatteredpixel.shatteredpixeldungeon.sh
   - install -Dm644 com.shatteredpixel.shatteredpixeldungeon.desktop /app/share/applications/com.shatteredpixel.shatteredpixeldungeon.desktop
   - install -Dm644 com.shatteredpixel.shatteredpixeldungeon.appdata.xml /app/share/metainfo/com.shatteredpixel.shatteredpixeldungeon.appdata.xml 
@@ -44,9 +43,11 @@ modules:
 
   sources:
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v1.2.3/ShatteredPD-v1.2.3-Desktop.jar
-    sha256: c9dd1a57448de367166a032b11f9f8a6a470ad4e436e650a646b9c3e6db50525
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/1.3.0-beta/ShatteredPD-v1.3.0-BETA-2-Desktop.jar
+    sha256: f95e7fbda1282173f9588708c56140c060804162185e2609af0ea1d481813728
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.jar
+  - type: file
+    path: com.shatteredpixel.shatteredpixeldungeon.sh
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.desktop
   - type: file
