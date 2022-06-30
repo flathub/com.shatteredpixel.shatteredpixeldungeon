@@ -15,6 +15,7 @@ finish-args:
 - --socket=pulseaudio
 - --share=network
 - --persist=home
+- --persist=var
 
 modules:
 - name: openjdk
