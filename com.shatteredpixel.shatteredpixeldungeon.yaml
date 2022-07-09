@@ -14,8 +14,6 @@ finish-args:
 - --env=PATH=/usr/bin:/app/bin:/app/jre/bin
 - --socket=pulseaudio
 - --share=network
-- --persist=home
-- --persist=var
 
 modules:
 - name: openjdk
@@ -44,8 +42,8 @@ modules:
 
   sources:
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/1.3.0-beta/ShatteredPD-v1.3.0-BETA-2-Desktop.jar
-    sha256: f95e7fbda1282173f9588708c56140c060804162185e2609af0ea1d481813728
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v1.3.0/ShatteredPD-v1.3.0-Desktop.jar
+    sha256: 0a09d7905f5d44cd653c77d62ca5c8a6957c6c4d263484a8824d23e89ff0b321
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.jar
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.sh
