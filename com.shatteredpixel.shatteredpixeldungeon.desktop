@@ -1,8 +1,10 @@
 [Desktop Entry]
-Type=Application
-Name=Shattered Pixel Dungeon
+Categories=Game;
 Comment=Roguelike RPG, with pixel art graphics and lots of variety and replayability
 Exec=com.shatteredpixel.shatteredpixeldungeon.sh
 Icon=com.shatteredpixel.shatteredpixeldungeon
+Name=Shattered Pixel Dungeon
 Terminal=false
-Categories=Game;
+Type=Application
+Version=1.0
+
