@@ -42,9 +42,9 @@
 		</screenshot>
 	</screenshots>
 	<releases>
-		<release version="1.3.0" date="2022-06-24">
+		<release version="1.3.0" date="2022-07-06">
 			<description>
-				<p>v1.3.0 Includes a bunch of new functionality, including custom seeds, daily runs, scoring improvements, a harder ascension route, UI improvements, new badges, and balance changes. Check the changes screen for full details!</p>
+				<p>v1.3.0 includes a variety of additions and improvements, including a new scoring system, custom seeds and daily runs, and a harder alternate ending! There are also some new and changed badges, various UI and control improvements, and a bunch of balance tweaks.</p>
 			</description>
 		</release>
 		<release version="1.2.3" date="2022-04-14">
