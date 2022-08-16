@@ -42,6 +42,11 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.3.2" date="2022-07-27">
+			<description>
+				<p>v1.3.0 includes a variety of additions and improvements, including a new scoring system, custom seeds and daily runs, and a harder alternate ending! There are also some new and changed badges, various UI and control improvements, and a bunch of balance tweaks.</p>
+			</description>
+		</release>
 		<release version="1.3.0" date="2022-07-06">
 			<description>
 				<p>v1.3.0 includes a variety of additions and improvements, including a new scoring system, custom seeds and daily runs, and a harder alternate ending! There are also some new and changed badges, various UI and control improvements, and a bunch of balance tweaks.</p>
