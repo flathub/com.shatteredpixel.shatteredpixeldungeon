@@ -42,6 +42,10 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="1.4.3" date="2022-11-19">
+			<description>
+				<p>v1.4.0 is focused on new in-game lore and loads of other miscellaneous improvements. There are 30 pages of story text to find, a new ring, various reworks, a new tutorial, and over a hundred smaller tweaks and fixes!</p>
+			</description>
 		<release version="1.4.0" date="2022-09-04">
 			<description>
 				<p>v1.4.0 is focused on new in-game lore and loads of other miscellaneous improvements. There are 30 pages of story text to find, a new ring, various reworks, a new tutorial, and over a hundred smaller tweaks and fixes!</p>
