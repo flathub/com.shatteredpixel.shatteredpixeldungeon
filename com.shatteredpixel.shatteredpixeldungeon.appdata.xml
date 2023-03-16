@@ -42,6 +42,12 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="2.0.0" date="2023-03-13">
+			<description>
+				<p>v2.0.0 includes Shattered's first ever new playable character! The Duelist is a melee weapons specialist who has a unique ability for every weapon in the game. Just like the other heroes, she has 2 subclasses, 3 armor abilities, and 26 talents!</p>
+			</description>
+			<url>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v200.html</url>
+		</release>
 		<release version="1.4.3" date="2022-11-19">
 			<description>
 				<p>v1.4.0 is focused on new in-game lore and loads of other miscellaneous improvements. There are 30 pages of story text to find, a new ring, various reworks, a new tutorial, and over a hundred smaller tweaks and fixes!</p>
