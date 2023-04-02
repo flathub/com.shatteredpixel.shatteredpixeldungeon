@@ -27,6 +27,7 @@
 	</description>
 	<developer_name>Evan Debenham</developer_name>
 	<url type="homepage">https://shatteredpixel.com/</url>
+	<url type="vcs-browser">https://github.com/00-Evan/shattered-pixel-dungeon</url>
 	<url type="bugtracker">https://github.com/00-Evan/shattered-pixel-dungeon/issues</url>
 	<url type="translate">https://www.transifex.com/shattered-pixel/shattered-pixel-dungeon/</url>
 	<url type="donation">https://www.patreon.com/ShatteredPixel</url>
@@ -138,6 +139,17 @@
         	</release>
 		<release version="0.8.0b" date="2019-12-01" />
 	</releases>
+	<categories>
+		<category>Game</category>
+		<category>StrategyGame</category>
+	</categories>
+	<recommends>
+		<control>keyboard</control>
+	</recommends>
+	<supports>
+		<control>pointing</control>
+		<control>gamepad</control>
+	</supports>
 	<content_rating type="oars-1.1">
 		<content_attribute id="violence-cartoon">moderate</content_attribute>
 		<content_attribute id="violence-bloodshed">mild</content_attribute>
