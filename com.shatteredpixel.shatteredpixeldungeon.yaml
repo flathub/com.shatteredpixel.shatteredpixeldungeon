@@ -32,7 +32,7 @@ modules:
   build-commands:
   - install -Dm755 ${FLATPAK_ID}.sh -t /app/bin
   - install -Dm644 ${FLATPAK_ID}.desktop -t /app/share/applications
-  - install -Dm644 ${FLATPAK_ID}.appdata.xml -t /app/share/metainfo
+  - install -Dm644 ${FLATPAK_ID}.metainfo.xml -t /app/share/metainfo
   - install -Dm644 ${FLATPAK_ID}.jar -t /app/share/${FLATPAK_ID}
   - install -Dm644 icon_16.png /app/share/icons/hicolor/16x16/apps/${FLATPAK_ID}.png
   - install -Dm644 icon_32.png /app/share/icons/hicolor/32x32/apps/${FLATPAK_ID}.png
@@ -50,7 +50,7 @@ modules:
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.desktop
   - type: file
-    path: com.shatteredpixel.shatteredpixeldungeon.appdata.xml
+    path: com.shatteredpixel.shatteredpixeldungeon.metainfo.xml
   - type: file
     url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_16.png
     sha256: 346204f441329df848161554c62a13bff1a8a67861b0dc5456e19e865830d598
