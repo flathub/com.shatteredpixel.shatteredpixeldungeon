@@ -42,8 +42,8 @@ modules:
 
   sources:
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v2.1.0/ShatteredPD-v2.1.0-Java.jar
-    sha256: 9a2b8963b27db69f4eecd6fdebc9fee2797ef45e296e3739abc17b817100ba0a
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v2.1.1/ShatteredPD-v2.1.1-Java.jar
+    sha256: 617f916133090dd1360904c5dd086d5940af386f388c8a522eb4efa5441edb11
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.jar
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.sh
