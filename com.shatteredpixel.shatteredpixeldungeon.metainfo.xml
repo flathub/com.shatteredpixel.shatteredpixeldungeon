@@ -43,6 +43,12 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="2.1.4" date="2023-07-09">
+			<description>
+				<p>v2.1 includes a bunch of Duelist balance changes, three new weapons, two new exotic enemies, and a bunch of big and small tweaks and bugfixes.</p>
+			</description>
+			<url>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v210.html</url>
+		</release>
 		<release version="2.1.2" date="2023-06-16">
 			<description>
 				<p>v2.1.0 includes a bunch of Duelist balance changes, three new weapons, two new exotic enemies, and a bunch of big and small tweaks and bugfixes.</p>
