@@ -1,6 +1,6 @@
 app-id: com.shatteredpixel.shatteredpixeldungeon
 runtime: org.freedesktop.Platform
-runtime-version: '22.08'
+runtime-version: '23.08'
 sdk: org.freedesktop.Sdk
 command: com.shatteredpixel.shatteredpixeldungeon.sh
 sdk-extensions:
