@@ -43,6 +43,13 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+	
+		<release version="2.3.0" date="2024-1-18">
+			<description>
+				<p>v2.3.0 includes a second gnoll-themed variant for the new caves quest! There are also some smaller item additions, visual improvements to floating text, and the usual slew of small tweaks and bugfixes.</p>
+			</description>
+			<url>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v230.html</url>
+		</release>	
 		<release version="2.2.1" date="2023-10-26">
 			<description>
 				<p>v2.2.0 includes a brand new quest in the caves, almost 20 minutes of new music, and substantial improvements to the prison and sewers quests! There's also the usual bunch of big and small tweaks and bugfixes.</p>
