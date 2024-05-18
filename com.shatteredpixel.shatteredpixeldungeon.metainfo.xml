@@ -210,6 +210,7 @@
 		<control>pointing</control>
 		<control>gamepad</control>
 	</supports>
+	<launchable type="desktop-id">com.shatteredpixel.shatteredpixeldungeon.desktop</launchable>
 	<content_rating type="oars-1.1">
 		<content_attribute id="violence-cartoon">moderate</content_attribute>
 		<content_attribute id="violence-bloodshed">mild</content_attribute>
