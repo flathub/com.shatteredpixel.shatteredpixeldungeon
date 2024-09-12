@@ -43,6 +43,12 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="2.5.0" date="2024-09-12">
+			<description>
+				<p>v2.5 includes a total overhaul to the journal, some new trinkets, and tonnes of smaller tweaks and balance changes.There are also new splash arts for each of the dungeons regions, viewable during loading screens! Be sure to check the changes screen for full details.</p>
+			</description>
+			<url>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v250.html</url>
+		</release>
 		<release version="2.4.1" date="2024-05-23">
 			<description>
 				<p>v2.4 features a new category of item: trinkets! They are more about tweaking gameplay variables than giving direct power or utility. There are also a bunch of smaller additions and tweaks, most notably to the Duelist and to Alchemy.</p>
