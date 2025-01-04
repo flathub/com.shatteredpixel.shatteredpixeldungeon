@@ -1,10 +1,10 @@
 app-id: com.shatteredpixel.shatteredpixeldungeon
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 command: com.shatteredpixel.shatteredpixeldungeon.sh
 sdk-extensions:
-- org.freedesktop.Sdk.Extension.openjdk11
+- org.freedesktop.Sdk.Extension.openjdk21
 
 finish-args:
 - --socket=wayland
@@ -19,13 +19,7 @@ modules:
 - name: openjdk
   buildsystem: simple
   build-commands:
-    - /usr/lib/sdk/openjdk11/install.sh
-
-- name: xrandr
-  sources:
-  - type: archive
-    url: https://xorg.freedesktop.org/archive/individual/app/xrandr-1.5.0.tar.gz
-    sha256: ddfe8e7866149c24ccce8e6aaa0623218ae19130c2859cadcaa4228d8bb4a46d
+    - /usr/lib/sdk/openjdk21/install.sh
 
 - name: shatteredpixeldungeon
   buildsystem: simple
