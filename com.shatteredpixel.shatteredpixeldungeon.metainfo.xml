@@ -43,6 +43,12 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="3.0.0" date="2025-02-27">
+			<description>
+				<p>v3.0 includes Shattered's second new playable character! The Cleric is a divine spellcaster who learns and upgrades spells via the talent system! They're releasing with 2 subclasses, 3 armor abilities, and over 30 different spells! There are also visual improvements, a new title graphic, and loads of smaller changes!</p>
+			</description>
+			<url>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v300.html</url>
+		</release>
 		<release version="2.5.4" date="2024-10-10">
 			<description>
 				<p>v2.5 includes a total overhaul to the journal, some new trinkets, and tonnes of smaller tweaks and balance changes.There are also new splash arts for each of the dungeons regions, viewable during loading screens! Be sure to check the changes screen for full details.</p>
