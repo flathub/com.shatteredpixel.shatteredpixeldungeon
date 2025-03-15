@@ -1,5 +1,6 @@
 [Desktop Entry]
-Categories=Game;
+Categories=Game;StrategyGame;
+Keywords=Turn-based;Roguelike;Dungeon Crawler;
 Comment=Roguelike RPG, with pixel art graphics and lots of variety and replayability
 Exec=com.shatteredpixel.shatteredpixeldungeon.sh
 Icon=com.shatteredpixel.shatteredpixeldungeon
