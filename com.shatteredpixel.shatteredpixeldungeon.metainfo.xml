@@ -233,6 +233,11 @@
 		<category>Game</category>
 		<category>StrategyGame</category>
 	</categories>
+	<keywords>
+		<keyword>Turn-based</keyword>
+		<keyword>Roguelike</keyword>
+		<keyword>Dungeon Crawler</keyword>
+	</keywords>
 	<recommends>
 		<control>keyboard</control>
 	</recommends>
