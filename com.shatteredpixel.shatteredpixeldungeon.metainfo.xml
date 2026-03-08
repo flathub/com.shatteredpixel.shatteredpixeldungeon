@@ -304,11 +304,13 @@
 		<keyword>Roguelike</keyword>
 		<keyword>Dungeon Crawler</keyword>
 	</keywords>
-	<recommends>
-		<control>keyboard</control>
-	</recommends>
+	<requires>
+		<display_length compare="ge">360</display_length>
+	</requires>
 	<supports>
+		<control>touch</control>
 		<control>pointing</control>
+		<control>keyboard</control>
 		<control>gamepad</control>
 	</supports>
 	<launchable type="desktop-id">com.shatteredpixel.shatteredpixeldungeon.desktop</launchable>
