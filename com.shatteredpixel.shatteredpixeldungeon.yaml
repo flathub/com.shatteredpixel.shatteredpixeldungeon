@@ -1,6 +1,6 @@
 app-id: com.shatteredpixel.shatteredpixeldungeon
 runtime: org.freedesktop.Platform
-runtime-version: '24.08'
+runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 command: com.shatteredpixel.shatteredpixeldungeon.sh
 sdk-extensions:
@@ -28,16 +28,12 @@ modules:
   - install -Dm644 ${FLATPAK_ID}.desktop -t /app/share/applications
   - install -Dm644 ${FLATPAK_ID}.metainfo.xml -t /app/share/metainfo
   - install -Dm644 ${FLATPAK_ID}.jar -t /app/share/${FLATPAK_ID}
-  - install -Dm644 icon_16.png /app/share/icons/hicolor/16x16/apps/${FLATPAK_ID}.png
-  - install -Dm644 icon_32.png /app/share/icons/hicolor/32x32/apps/${FLATPAK_ID}.png
-  - install -Dm644 icon_64.png /app/share/icons/hicolor/64x64/apps/${FLATPAK_ID}.png
-  - install -Dm644 icon_128.png /app/share/icons/hicolor/128x128/apps/${FLATPAK_ID}.png
-  - install -Dm644 icon_256.png /app/share/icons/hicolor/256x256/apps/${FLATPAK_ID}.png
+  - install -Dm644 ${FLATPAK_ID}.png -t /app/share/icons/hicolor/256x256/apps
 
   sources:
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v3.3.7/ShatteredPD-v3.3.7-Java.jar
-    sha256: a537e321d7e82181dc8e2cd857f4851c4bd940e369e30cd8d3781a0d1b37cecc
+    url: https://github.com/00-Evan/shattered-pixel-dungeon/releases/download/v3.3.8/ShatteredPD-v3.3.8-Java.jar
+    sha256: b90d28d1b17700704920454549a4a6eddce5079b6140cb71a4dfcb3cc398a060
     dest-filename: com.shatteredpixel.shatteredpixeldungeon.jar
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.sh
@@ -46,22 +42,9 @@ modules:
   - type: file
     path: com.shatteredpixel.shatteredpixeldungeon.metainfo.xml
   - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_16.png
-    sha256: 346204f441329df848161554c62a13bff1a8a67861b0dc5456e19e865830d598
-    dest-filename: icon_16.png
-  - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_32.png
-    sha256: d64be318c9ca7cc40d6d270d5c28b067245e21b52304631c1480d4efb1fe5f52
-    dest-filename: icon_32.png
-  - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_64.png
-    sha256: e556d143ea9269b3a2ec2267170f12365ce81b0cd7a91cac6dd3c61a3e88ba62
-    dest-filename: icon_64.png
-  - type: file
-    url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_128.png
-    sha256: eeb3a5230003704752bc24beb91aa0a3a269f57bb61f4445ffc8751674d00879
-    dest-filename: icon_128.png
-  - type: file
     url: https://github.com/00-Evan/shattered-pixel-dungeon/raw/47d9f3219d5eb0f3f7482b78b9e05334f3de0040/desktop/src/main/assets/icons/icon_256.png
     sha256: 00962b4d99401827b24bce91bc76672ee69380d075085f6d5148a085d7badcb5
-    dest-filename: icon_256.png
+    dest-filename: com.shatteredpixel.shatteredpixeldungeon.png
+  - type: file
+    url: https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/refs/heads/master/LICENSE.txt
+    sha256: d0495053051967ebe76fb1facd287d79d1ed800da1be75cf501a556bc39a0472
